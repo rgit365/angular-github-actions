@@ -1,6 +1,6 @@
 # Angular CLI with Github Actions
 
-[![build status](https://github.com/coryrylan/angular-github-actions/workflows/Build/badge.svg)](https://github.com/coryrylan/angular-github-actions/actions)
+![Build](https://github.com/rgit365/angular-github-actions/workflows/Build/badge.svg)
 
 [Tutorial Blog Post](https://coryrylan.com/blog/building-angular-cli-projects-with-github-actions)
 
